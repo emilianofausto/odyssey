@@ -20,6 +20,6 @@
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@okta/odyssey-lifecycle": "^0.15.0",
-    "webpack": "4.46.0"
+    "webpack": "5.94.0"
   }
 }
